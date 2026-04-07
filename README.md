@@ -173,8 +173,6 @@ TEMPERATURE=0.2
 streamlit run ui/dashboard.py
 ```
 
-Then open **http://localhost:8501** in your browser.
-
 ### Option B: Command Line
 
 ```bash
