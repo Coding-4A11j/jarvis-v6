@@ -1,6 +1,10 @@
 # 🤖 Jarvis v6 – Autonomous Software Builder AI
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Coding-4A11j/jarvis-v6&branch=master&mainModule=ui/dashboard.py)
+
 > An advanced AI system that automatically builds complete software projects from a single natural-language instruction. Runs entirely locally using free, open-source tools.
+
+### 🌐 [Live Demo on Streamlit Cloud](https://coding-4a11j-jarvis-v6.streamlit.app)
 
 ---
 
