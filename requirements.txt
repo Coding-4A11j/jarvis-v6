@@ -1,0 +1,19 @@
+# ============================================================
+# Jarvis v6 - Dependencies (Cloud-Compatible)
+# ============================================================
+
+# Dashboard UI
+streamlit>=1.55.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# AI - Ollama (local LLM) – lightweight client
+ollama>=0.4.0
+
+# HTTP
+requests>=2.32.0
+
+# Note: Heavy dependencies (torch, transformers, opencv, pyautogui,
+# pytesseract) are excluded for cloud deployment.
+# Install locally with: pip install -r requirements-local.txt

@@ -1,0 +1,26 @@
+# ============================================================
+# Jarvis v6 - Full Local Dependencies
+# ============================================================
+
+# Dashboard UI
+streamlit>=1.55.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# AI - Ollama (local LLM)
+ollama>=0.4.0
+
+# AI - HuggingFace (alternative backend)
+transformers>=4.45.0
+accelerate>=1.0.0
+torch>=2.2.0
+
+# Vision / Screen Analysis
+opencv-python>=4.10.0
+pytesseract>=0.3.13
+pyautogui>=0.9.54
+Pillow>=10.0.0
+
+# HTTP
+requests>=2.32.0
